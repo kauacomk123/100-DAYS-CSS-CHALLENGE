@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family:Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+.galery{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding: 0%;
+    margin: 0%;
+}
+.cards{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding: 0%;
+    margin: 0%;
+}
+.cards li{
+    background-color: blueviolet;
+    color: white;
+    font-size: 24px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: tranform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+.cards li:hover{
+    transform: scale(1.2);
+    box-shadow:  0px 4px  15px rgba(0, 0, 0, 0.2);
+    background-color: black; /* Cor ao passar o mouse */
+}
+/*mudar a cor especifica dos botoes que eu definir*/
+.cards li:nth-child(2):hover,
+.cards li:nth-child(4):hover,
+.cards li:nth-child(6):hover,
+.cards li:nth-child(8):hover
+{
+    background-color: crimson; /* Cor ao passar o mouse */
+}
