@@ -1,2 +1,2 @@
-#Exercícios e Projetos Web
+Exercícios e Projetos Web
  HTML, CSS, JS
