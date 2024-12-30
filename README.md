@@ -1,1 +1,2 @@
-# estudos basico de  HTML CSS e javascript
+#Exercícios e Projetos Web
+ HTML, CSS, JS
