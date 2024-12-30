@@ -1,1 +1,1 @@
-# estudos HTML CSS e javascript
+# estudos basico de  HTML CSS e javascript
