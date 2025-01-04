@@ -1,2 +1,2 @@
-Exercícios e Projetos Web
+pequenos projetos de estudos de 
  HTML, CSS, JS
